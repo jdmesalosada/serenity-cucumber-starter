@@ -15,8 +15,8 @@ There is a single feature file with one scenario. The scenario has three steps, 
 
 Git:
 
-    git clone https://github.com/serenity-bdd/serenity-cucumber-starter.git
-    cd serenity-cucumber-starter
+    git clone https://github.com/serenity-bdd/serenity-cucumber-caffeinateme.git
+    cd serenity-cucumber-caffeinateme
 
 
 Or simply [download a zip](https://github.com/serenity-bdd/serenity-cucumber-starter/archive/master.zip) file.
